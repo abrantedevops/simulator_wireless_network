@@ -24,7 +24,7 @@
 
 <h2>Gnuplot</h2>
 
-<div style="display: flex; align-items: center;">
-  <img src="./assets/throughtput.jpg" alt="throughtput" style="margin-right: 10px; width:50%;" class="side-by-side">
-  <img src="./assets/mean_delay.jpg" alt="mean delay" style="margin-left: 10px; width:50%;" class="side-by-side">
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="./assets/throughtput.jpg" alt="throughtput" style="margin-right: 4px; width:45%;" class="side-by-side">
+  <img src="./assets/mean_delay.jpg" alt="mean delay" style="margin-left: 4px; width:45%;" class="side-by-side">
 </div>
